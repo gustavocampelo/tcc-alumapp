@@ -1,7 +1,7 @@
 # ALUMAPP: O guia acadêmico
 
 <p align="center">
-  <img src="https://github.com/gustavocampelo/TCC-ALUMAPP/assets/83740600/64cfb710-2d93-4c82-968c-ea54050965a6" alt="Imagem do topo, celular ilustrando o aplicativo" width="1000" height="600">
+  <img src="https://github.com/gustavocampelo/TCC-ALUMAPP/assets/83740600/64cfb710-2d93-4c82-968c-ea54050965a6" alt="Imagem do topo, celular ilustrando o aplicativo" width="1000">
 </p>
 
 **Com muito orgulho, compartilho algumas telas do meu projeto de TCC: Desenvolvido como parte do meu curso de Análise e Desenvolvimento de Sistemas na Fatec Rubens Lara, esse aplicativo mobile tem como objetivo ajudar os alunos a se localizarem melhor dentro da instituição e a se manterem atualizados.**
@@ -18,13 +18,13 @@
 - ### 📚 **Ver Grade do Dia:** Visualize sua grade de aulas de forma prática e organizada.
 
 <p align="center">
-  <img src="https://github.com/gustavocampelo/TCC-ALUMAPP/assets/83740600/dec2000a-157b-449d-9247-4c77767debd1" alt="Imagem do meio, celular ilustrando as funcionalidades do aplicativo" width="1000" height="800">
+  <img src="https://github.com/gustavocampelo/TCC-ALUMAPP/assets/83740600/dec2000a-157b-449d-9247-4c77767debd1" alt="Imagem do meio, celular ilustrando as funcionalidades do aplicativo" width="700">
 </p>
 
 ### Essas são apenas algumas das funcionalidades do Guia Acadêmico. O projeto foi desenvolvido com paixão por UI/UX para proporcionar uma experiência amigável e intuitiva aos usuários.
 
 <p align="center">
-  <img src="https://github.com/gustavocampelo/TCC-ALUMAPP/assets/83740600/23e39de6-9107-4422-a84d-b3bb0bdc858c" alt="Imagem do fim, celular ilustrando configurações do aplicativo e sua paleta de cores" width="1000" height="800">
+  <img src="https://github.com/gustavocampelo/TCC-ALUMAPP/assets/83740600/23e39de6-9107-4422-a84d-b3bb0bdc858c" alt="Imagem do fim, celular ilustrando configurações do aplicativo e sua paleta de cores" width="700">
 </p>
 
 
