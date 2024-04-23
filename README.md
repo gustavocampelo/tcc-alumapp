@@ -32,6 +32,6 @@
 
 ### Teste o ALUMAPP
 
-Você pode testar o ALUMAPP diretamente no desktop no modo desenvolvedor com dimensão mobile de sua preferência.
+Você pode testar o ALUMAPP diretamente no desktop no modo desenvolvedor (F12) com dimensão mobile de sua preferência.
 
 [Clique aqui para emular o aplicativo](https://preview.flutterflow.app/alumapp-o4b3gz/MoRX0YntuaYwubYREQwR#/loginPage).
