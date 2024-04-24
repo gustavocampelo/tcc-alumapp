@@ -10,6 +10,10 @@
 
 **Além disso, o ALUMAPP foi desenvolvido com tecnologia low-code através da plataforma Flutterflow, com banco de dados Firebase, permitindo uma rápida prototipação e implementação de funcionalidades essenciais.**
 
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://docs.flutter.dev/)
+[![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)](https://firebase.google.com/docs?hl=pt-br)
+<br>
+
 ## Algumas funcionalidades do ALUMAPP incluem:
 
 - ### 🗺️ **Mapa Interativo:** Navegação facilitada pelos corredores e andares da faculdade.
